@@ -1,9 +1,9 @@
 # Blog Writing Automation
-This app was built with Autogen and OpenAI API(GPT 4.1 Nano model)
+This LLM agent app was built with Autogen and OpenAI API(GPT 4.1 Nano model)
 to build an AI agentic system that automates blog writing processes.
 
 ## How The App Works
-This agent app is structured with 2 main agents and 4 sub-agents.
+This multi-agent system is structured with 2 main agents and 4 sub-agents.
 Each agent is in specialty on its role and work cohesively as a team.
 
 ## Multi Agent Structure
