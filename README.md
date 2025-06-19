@@ -4,7 +4,7 @@ to build an AI agentic system that automates blog writing processes.
 
 ## How The App Works
 This agent app is structured with 2 main agents and 4 sub-agents.
-Each agent is in specialty on its role and work coherently as a team.
+Each agent is in specialty on its role and work cohesively as a team.
 
 ## Multi Agent Structure
 ![Untitled Diagram.drawio (4).png](assets/Untitled%20Diagram.drawio%20%284%29.png)
